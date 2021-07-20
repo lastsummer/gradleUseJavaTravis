@@ -9,4 +9,4 @@ env:
   - CI=true
 
 script:
-  - ./gradlew build -x signArchives -s
+  - ./gradlew build 
